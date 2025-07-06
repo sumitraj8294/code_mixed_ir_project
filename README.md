@@ -4,7 +4,7 @@ This project implements an Information Retrieval (IR) system for code-mixed Beng
 
 ---
 **
-**Dont forget to add your here in the data directory**
+**Dont forget to add your data in the data directory**
 
 # ✅ Installation
 
