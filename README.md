@@ -3,6 +3,8 @@
 This project implements an Information Retrieval (IR) system for code-mixed Bengali-English queries and documents, written in Roman script, as commonly used in Indian social media communities. The system retrieves relevant answers from a corpus using BM25 ranking.
 
 ---
+**
+**Dont forget to add your here in the data directory**
 
 # ✅ Installation
 
